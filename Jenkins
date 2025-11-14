@@ -1,0 +1,13 @@
+What Jenkins is
+
+An open-source automation server: Jenkins is a Java-based application that can be installed on a server to automate tasks across the software development lifecycle. 
+Extensible with plugins: Its functionality is greatly expanded through a vast library of plugins, which allow it to integrate with a wide variety of other development tools and platforms. 
+A core CI/CD tool: It is a key component in CI/CD pipelines, a set of practices that automates the process of getting code from a developer's machine into production.
+
+Why it is used
+
+Continuous Integration (CI): Developers can merge their code changes into a shared repository multiple times a day. Jenkins automatically builds and tests these changes, helping to find and fix integration errors early. 
+Continuous Delivery (CD): After the code passes the automated tests in the CI stage, Jenkins can automatically deploy it to a testing or production environment. 
+Increased efficiency: By automating the build, test, and deployment processes, Jenkins allows development teams to release software faster and more reliably, saving significant time and reducing manual errors. 
+Improved feedback loop: Teams receive rapid feedback on their code changes, allowing them to fix issues before they become major problems. 
+Task automation: It can be used to automate a wide range of tasks, from running scripts to managing ETL jobs and beyond
