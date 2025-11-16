@@ -11,3 +11,4 @@ Continuous Delivery (CD): After the code passes the automated tests in the CI st
 Increased efficiency: By automating the build, test, and deployment processes, Jenkins allows development teams to release software faster and more reliably, saving significant time and reducing manual errors. 
 Improved feedback loop: Teams receive rapid feedback on their code changes, allowing them to fix issues before they become major problems. 
 Task automation: It can be used to automate a wide range of tasks, from running scripts to managing ETL jobs and beyond
+Task automation: It can be used to automate a wide range of tasks, from running scripts to managing ETL jobs and beyond
